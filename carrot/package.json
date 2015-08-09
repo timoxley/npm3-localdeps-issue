@@ -1,0 +1,7 @@
+{
+  "name": "carrot",
+  "version": "1.0.0",
+  "dependencies": {
+    "banana": "file:../banana"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "npm3-localdeps-issue",
+  "version": "1.0.0",
+  "dependencies": {
+    "apple": "file:./apple",
+    "banana": "file:./banana"
+  }
+}
